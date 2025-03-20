@@ -1,0 +1,11 @@
+[project]
+name = "chainlit-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.4.201",
+    "langchain>=0.3.21",
+    "langchain-anthropic>=0.3.10",
+]
